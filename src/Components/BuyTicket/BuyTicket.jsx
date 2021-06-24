@@ -34,15 +34,15 @@ export default function BuyTicket() {
 
         <div className={styles.secondChild}>
           <div className={styles.firstChair}>
-            <img src={firstChair} />
+            <img alt="" src={firstChair} />
             <p>Not Available</p>
           </div>
           <div className={styles.secondChair}>
-            <img src={secondChair} />
+            <img alt="" src={secondChair} />
             <p>Available</p>
           </div>
           <div className={styles.thirdChair}>
-            <img src={thirdChair} />
+            <img alt="" src={thirdChair} />
             <p>Your Seats</p>
           </div>
         </div>
@@ -50,36 +50,36 @@ export default function BuyTicket() {
       <div className={styles.theatreModelContainer}>
         <div className={styles.groundchairs}>
           <div className={styles.L1}>
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
           </div>
           <div className={styles.R1}>
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
           </div>
         </div>
         {/* ************************************************************************** */}
@@ -87,262 +87,262 @@ export default function BuyTicket() {
         <div className={styles.balcony}>
           <div className={styles.L2}>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
           </div>
           <div className={styles.R2}>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
             <div>
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
-              <img src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
+              <img alt="" src={firstChair} />
             </div>
           </div>
         </div>
         <div>
           <div className={styles.T1}>
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
 
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
           </div>
           <div className={styles.T2}>
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
-            <img src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
+            <img alt="" src={firstChair} />
           </div>
         </div>
       </div>

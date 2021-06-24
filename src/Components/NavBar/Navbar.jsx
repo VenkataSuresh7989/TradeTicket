@@ -6,7 +6,7 @@ export default class Navbar extends React.Component {
     return (
       <div>
         <nav className="navbar navbar-expand-lg navbar-light bg">
-          <a className="navbar-brand" href="#">
+          <a className="navbar-brand" href="/">
             <h1 className="Heading">
               Trade<i className="Heading1">𝓣</i>icket
             </h1>
@@ -25,7 +25,7 @@ export default class Navbar extends React.Component {
                 <li className="nav-item dropdown user">
                   <a
                     className="nav-link dropdown-toggle "
-                    href="#"
+                    href="/"
                     id="navbarDropdown"
                     role="button"
                     data-bs-toggle="dropdown"
@@ -45,7 +45,7 @@ export default class Navbar extends React.Component {
                     <a
                       className="dropdown-item "
                       style={{ backgroundColor: "gray" }}
-                      href="/#"
+                      href="/"
                       onClick={() => {
                         alert("Log out");
                       }}
