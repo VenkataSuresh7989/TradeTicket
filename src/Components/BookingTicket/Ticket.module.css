@@ -1,0 +1,44 @@
+.firstchild {
+    position: relative;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+  .firstchild button {
+    width: max-content;
+  }
+  
+  .firstchild::after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 7px;
+    background-color: black;
+    left: 100%;
+    top: 0;
+  }
+  
+  .background {
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+    width: 100%;
+    height: 700px;
+    background-image: url("https://i.postimg.cc/LsdS6VtV/bgimage.png");
+    background-size: cover;
+  }
+  
+  .background > * {
+    flex: 1 1 auto;
+  }
+  
+  /* .btn {
+    background-color: palevioletred;
+  } */
+  
+

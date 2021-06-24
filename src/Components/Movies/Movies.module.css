@@ -1,0 +1,50 @@
+.moviesHeading {
+  
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.movie {
+  padding: 50px;
+  display: flex;
+  /* border: 3px solid violet; */
+  overflow-x: scroll;
+}
+
+
+::-webkit-scrollbar {
+  /* border: 3px solid violet; */
+  visibility: collapse;
+  -webkit-appearance: none;
+}
+
+.movie > * {
+  padding-top: 5px;
+  padding-left: 10px;
+  /* border: 3px solid rgb(207, 108, 108); */
+}
+
+.mviName{
+  justify-content: left;
+}
+
+.heading{
+  color: blue;
+}
+
+.mviName > h1 {
+  color:lightsalmon;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.mviName > * {
+  color: gray;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+

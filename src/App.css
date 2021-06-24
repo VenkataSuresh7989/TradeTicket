@@ -1,0 +1,97 @@
+/*  */
+.Heading {
+  font-weight: bold;
+  font-family: Georgia, "Times New Roman", Times, serif;
+margin-left: 30px;
+  color: white;
+}
+.Heading1 {
+  font-style: italic;
+  font-size: 60px;
+  color: red;
+}
+.title{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  color: white;
+}
+
+.bg {
+  color: black;
+}
+
+.btn {
+  color: white;
+  background-color: var(--primary-red-color);
+  /* border: 3px solid yellow; */
+}
+
+input {
+  font-size: 20px;
+  
+  margin-bottom: 30px;
+  outline:  none;
+  border-radius: 7px;
+  color: #fff;
+  background-color: #707070;
+  height: 61px;
+  width: 398px;
+  font-size: 18px;
+padding: 0 16px;
+}
+
+ ::placeholder{
+color: #E0E0E0;
+}
+
+label{
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+nav {
+  display: flex;
+  /* border: 3px solid red; */
+}
+
+/* nav > * {
+  border: 3px solid yellow;
+} */
+
+.options {
+  margin-left: auto;
+}
+.options > * {
+  margin-right: 40px;
+}
+
+.padding_login > * {
+  padding: 2px;
+}
+
+.pd {
+  padding-right: 1px;
+}
+
+.container {
+  border-radius: 4px;
+  padding: 10px;
+  background: gray;
+  display: table;
+  table-layout: fixed;
+
+  box-sizing: border-box;
+  border-spacing: 10px;
+}
+.item {
+  /* float:left; */
+
+  width: 100;
+  height: 500;
+
+  display: table-cell;
+
+  text-align: center;
+  border: 2px dashed red;
+}

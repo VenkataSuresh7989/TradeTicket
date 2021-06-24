@@ -1,0 +1,20 @@
+
+.partner_heading {
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .partner_img {
+    display: flex;
+    /* border: 3px solid rgb(26, 201, 26); */
+  }
+  
+  .partner_img > * {
+    padding-top: 70px;
+    padding-left: 10%;
+    /* border: 3px solid rgb(243, 208, 13); */
+  }
+  
+ 

@@ -1,0 +1,29 @@
+.container{
+    padding-top: 10%;
+    /* padding-bottom: 10%; */
+    font-weight: bold;
+    color:white;
+    text-align: center;
+    padding-bottom: 5%;
+
+}
+.img{
+    display: flex;
+
+}
+
+.img > *{
+    padding-left: 10%;
+}
+.img > * >h3,h4{
+    color:rgb(224, 55, 78);
+}
+
+.img > * >h5{
+    color: white;
+}
+
+.bottomgap{
+    padding-bottom: 10%;
+}
+

@@ -1,0 +1,80 @@
+.container{
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    background-image: url('../../assets/bgimage.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 30px 0 50px rgba(0, 0, 0, 0.5),
+    inset 30px 0 50px rgba(0, 0, 0, 0.7),
+    inset 450px 0 250px rgba(0, 0, 0, 0.4),
+    inset 990px 0 300px rgba(0, 0, 0, 0.5),
+    inset 1020px 0 600px rgba(0, 0, 0, 0.5),
+    inset 200px 0 100px rgba(0, 0, 0, 1),
+    inset 400px 0 150px rgba(0, 0, 0, 1);
+position: relative;
+z-index: 1;
+overflow: scroll;
+}
+
+.container::after {
+content: '';
+position: absolute;
+height: 100%;
+width: 100%;
+background-color: rgba(0, 0, 0, 0.5);
+z-index: -1;
+
+}
+
+
+
+.container >*{
+    display: flex;
+    flex-direction: column;
+}
+.inputfield{
+    width: 658px;
+
+}
+
+.dateContainer{
+ display: flex;
+  gap: 10px;
+    
+}
+
+.dateContainer > *{
+    display: flex;
+    flex-direction: column;
+}
+
+.dateContainer > *:last-child{
+    margin-left: 45px;
+}
+
+.Date{
+    width: 235px;
+}
+
+.Time{
+    width: 151px;
+}
+
+.tickets{
+    width: 123px;
+}
+
+.btn{
+     width: max-content;
+     height: 50px;
+     align-self: center;
+     background-color:#F84460;
+     color:white;
+     border-radius: 5px;
+     border:0;
+     outline: 0;
+     padding: 0 24px;
+     
+     
+}
