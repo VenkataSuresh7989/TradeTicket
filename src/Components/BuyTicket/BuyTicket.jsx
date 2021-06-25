@@ -5,7 +5,7 @@ import { FaChevronLeft } from "react-icons/fa";
 import secondChair from "../../assets/whitechair.png";
 import firstChair from "../../assets/graychair.png";
 import thirdChair from "../../assets/redchair.svg";
-import { useHistory } from "react-router";
+import { useHistory } from "react-router-dom";
 
 export default function BuyTicket() {
   const history = useHistory();
